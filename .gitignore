@@ -1,0 +1,7 @@
+node_modules/
+.env
+roboknights.db
+roboknights.db-shm
+roboknights.db-wal
+public/uploads/*
+!public/uploads/.gitkeep
